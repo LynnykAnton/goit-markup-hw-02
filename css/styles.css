@@ -1,0 +1,45 @@
+:root {
+  --main-color: #212121;
+  --secondary-color: #757575;
+  --accent-color: #2196f3;
+}
+body {
+  font-family: 'roboto';
+  color: var(--main-color);
+}
+.header-logo {
+  color: black;
+}
+.half-logo {
+  color: blue;
+}
+.footer-logo {
+  color: white;
+}
+.nav-link {
+  color: black;
+}
+.advantages {
+  background-color: ;
+}
+.title-advantages {
+  color: ;
+}
+
+.work-examples {
+}
+.alt-team {
+  color: gray;
+}
+.alt-advantages {
+  /* font-family: 'Roboto'; */
+  /* font-style: normal;
+  font-weight: 400; не обовязковий */
+  font-size: 14px;
+  line-height: 1.71;
+  /* or 171% */
+
+  letter-spacing: 0.03em;
+
+  color: var(--secondary-color);
+}
