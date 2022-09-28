@@ -30,6 +30,17 @@ ul {
   padding-right: 15px;
   /* outline: 2px solid #2196f3; */
 }
+.overlay {
+  max-width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #c4c4c4;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
+    url('../image/overlay.jpg');
+}
 
 .link {
   text-decoration: none;
